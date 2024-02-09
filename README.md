@@ -4,4 +4,6 @@ A primitive bot that is able to listen to text commands for recording and tracki
 
 Intended for use on private/public text channels on [Discord](https://discord.com/).
 
+*Currently not deployed.*
+
 
